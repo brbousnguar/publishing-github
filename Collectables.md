@@ -1,3 +1,9 @@
+[Home](README.md) | [Cast](cast.md) | [Collectables](Collectables.md) 
+
+<img src="images/logo_stargazers_bug.svg" alt="StarGazers Logo" style="width:300px;"/>
+
+# Collectables
+
 ---
 title: Collectibles
 layout: base.njk
